@@ -10,11 +10,18 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/bin
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675936066,,"wq"
+|2,0,1675947904,,"wq"
 
 # Search String History (newest to oldest):
+?/bin/bash
+|2,1,1675946768,47,"bin/bash"
+?/bin/bash                                                                                                                                            
+|2,1,1675945208,47,"bin/bash                                                                                                                                            "
 ?/bin/bashi#!/bin/bash
 |2,1,1675920969,47,"bin/bashi#!/bin/bash"
 ?/*
@@ -29,230 +36,507 @@
 # Registers:
 
 # File marks:
-'0  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,48,2,2,1675936066,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'1  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,49,2,2,1675934949,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'2  2  2  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,50,2,2,1675934766,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
-'3  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,51,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'4  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,52,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'5  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,53,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'6  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,54,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'7  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,55,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'8  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,56,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'9  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,57,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+'0  3  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,48,3,0,1675947904,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+'1  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,49,1,10,1675947779,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'2  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,50,1,10,1675947729,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+'3  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,51,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+'4  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,52,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+'5  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,53,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+'6  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,54,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+'7  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,55,1,10,1675947418,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'8  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+|4,56,1,10,1675947366,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+'9  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
+|4,57,1,10,1675947309,"~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe"
 
 # Jumplist (newest first):
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675936066,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675936025,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675934949,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934900,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,2,2,1675934766,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,2,2,1675934766,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,2,2,1675934766,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,2,2,1675934766,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,1,0,1675934735,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,1,0,1675934735,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,1,0,1675934735,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
-|4,39,1,0,1675934735,"/alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934589,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934223,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934209,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934183,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934183,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934183,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675934183,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675933108,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675933078,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675933078,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675933078,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675933078,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675932220,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675932220,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675932220,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675932220,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932188,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932188,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932188,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932188,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932069,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932069,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932069,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675932069,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1675931616,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675931588,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675931588,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675931588,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1675931588,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,1,1675931037,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,3,0,1675947904,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1675947879,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1675947779,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1675947779,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,10,1675947729,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,10,1675947729,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,10,1675947729,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,10,1675947729,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,10,1675947667,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,39,1,10,1675947599,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+|4,39,1,10,1675947541,"~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,1,10,1675947490,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/.git/MERGE_MSG
+	*	1675947899	0
+	"	3	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+	*	1675947775	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+	*	1675947726	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+	*	1675947663	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+	*	1675947596	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+	*	1675947536	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+	*	1675947485	0
+	"	1	10
+	^	1	11
+	.	1	11
+	+	2	0
+	+	1	11
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+	*	1675947410	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+	*	1675947362	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
+	*	1675947305	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+	*	1675947240	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	8
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody
+	*	1675947184	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+	*	1675947129	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
+	*	1675947061	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
+	*	1675947007	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
+	*	1675946932	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
+	*	1675946853	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+	*	1675946785	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
+	*	1675946699	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
+	*	1675945553	0
+	"	1	113
+	^	1	114
+	.	1	114
+	+	1	127
+	+	1	114
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_linka
+	*	1675945236	0
+	"	1	113
+	^	1	114
+	.	1	114
+	+	2	0
+	+	1	114
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
+	*	1675944823	0
+	"	1	16
+	^	1	17
+	.	1	0
+	+	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas
+	*	1675944672	0
+	"	2	0
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree
+	*	1675944608	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+	*	1675944564	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
+	*	1675944519	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html
+	*	1675944468	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	2	0
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/12-file_type
+	*	1675944339	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists
+	*	1675944291	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/10-back
+	*	1675944245	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion
+	*	1675944190	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/8-firstdelete
+	*	1675944123	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1675943523	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
+	*	1675943462	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+	*	1675943404	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	2	0
+	+	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles
+	*	1675943242	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home
+	*	1675943174	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+	*	1675943101	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1675942764	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	2	2
+	+	1	8
 
 > /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
 	*	1675936057	0
@@ -265,13 +549,6 @@
 > /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
 	*	1675934758	0
 	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-	*	1675931031	0
-	"	1	0
 	^	2	3
 	.	2	2
 	+	2	2
